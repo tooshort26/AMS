@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Course Attendance System</string>
+    <string name="login_using_facial_recognition">Login using facial Recognition</string>
+    <string name="login_using_finger_print">Login using Finger Print</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+
+    <string name="attended_activities">Attended Activities</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="splash_screen_text">Course Attendance System</string>
+    <string name="register_message">For you to start using this application you must field those fields</string>
+    <string name="settings">Settings</string>
+    <string name="idNumber">Please check your id number</string>
+    <string name="firstName">Please check your firstname</string>
+    <string name="middleName">Please check your middlename</string>
+    <string name="lastName">Please check your lastname</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="dashboard">Dashboard</string>
+
+
+    <!--    FROM THE CHATYY -->
+    <!-- App and Activities -->
+    <string name="title_activity_view_image">View image</string>
+    <string name="title_activity_chat">Chatroom</string>
+    <string name="title_activity_record_audio">Record audio</string>
+    <string name="title_activity_play_video">Play video</string>
+    <string name="title_activity_file_picker">File chooser</string>
+    <string name="title_activity_web_view">Open link....</string>
+    <string name="title_activity_drawing">Draw</string>
+
+    <!-- Menus -->
+    <string name="disconnect">Disconnect</string>
+    <string name="send_image">Send image</string>
+    <string name="download_image">Download image</string>
+    <string name="send_audio">Send audio message</string>
+    <string name="send_video">Send video message</string>
+    <string name="send_file">Send file</string>
+    <string name="send_drawing">Send drawing</string>
+
+    <!-- Popup menus -->
+    <string name="pick_image">Pick image</string>
+    <string name="take_photo">Take photo</string>
+
+    <!-- Buttons -->
+    <string name="go_to_settings_button">Go to Settings</string>
+    <string name="send_button">Send</string>
+    <string name="back_button">Back</string>
+    <string name="record_button">Start recording</string>
+    <string name="playback_button">Play</string>
+    <string name="stop_recording_button">Stop recording</string>
+    <string name="ok">OK</string>
+
+    <!-- TextView -->
+    <string name="go_to_settings_text">Click the image above to go to Settings and connect your device to others by Wifi-Direct</string>
+
+    <!-- EditTexts -->
+    <string name="set_chat_name">Please choose your chat name</string>
+    <string name="enter_text">Enter your message here</string>
+
+    <!-- Descriptions -->
+    <string name="full_screen_image">Full screen image</string>
+    <string name="file_icon">File icon</string>
+    <string name="paint">Choose a color</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+
+    <!-- Drawing buttons -->
+    <string name="new_drawing">New</string>
+    <string name="brush">Brush</string>
+    <string name="eraser">Eraser</string>
+    <string name="save_and_send">Save and Send</string>
+    <string name="create_activity">Create Activity</string>
+    <string name="activities">Activities</string>
+    <string name="export_attendance">Export Attendance</string>
+    <string name="server_help_message">Please invite one client via WiFi-Direct to establish a Server-Client connection.</string>
+    <string name="client_help_message">If the server invite you as a client all you need to do is accept otherwise wait for server action.</string>
+
+    <string name="process_server">PROCESS SERVER</string>
+    <string name="export_csv">EXPORT CSV</string>
+    <string name="search_activity">Search activity...</string>
+
+</resources>
